@@ -2,7 +2,7 @@
 
 A full end-to-end Sales Analytics Dashboard built in Power BI, covering KPI tracking, segmentation, profitability, regional insights, shipping performance, and multi-year sales trends.
 
-<img src="Sales_Projects.png" width="100%" />
+<img src="Sales_Analysis_Projects.png" width="100%" />
 🚀 Project Overview
 
 This dashboard analyzes several years of sales data and provides insights into:
